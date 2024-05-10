@@ -1,0 +1,46 @@
+#marginSpan{
+    margin-right:128px; 
+
+}
+
+#marginSpanTwo{
+
+    margin-right:20%;
+    
+    }
+
+body{
+
+    font-size:200%;
+    margin-top:20%;
+    margin-left: 50px;
+   
+    
+}
+
+span{
+
+width:200px;
+height:200px;
+background-color:#e2dcdc;
+border:solid 3px#e2dcdc;
+border-radius: 2px;
+padding:2%;
+color: #04246d; 
+ 
+}
+
+
+#parentDivStyling{
+   position: relative;
+    background-color:#fafafa;
+ padding:4%;
+ width:20%
+}
+
+.divChildStyling{
+
+padding: 4%;
+
+
+}
